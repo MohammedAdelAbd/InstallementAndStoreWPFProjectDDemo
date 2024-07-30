@@ -1,0 +1,11 @@
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\bin\Debug\net7.0\InstallementAndStore.Models.deps.json
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\bin\Debug\net7.0\InstallementAndStore.Models.dll
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\bin\Debug\net7.0\InstallementAndStore.Models.pdb
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\obj\Debug\net7.0\InstallementAndStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\obj\Debug\net7.0\InstallementAndStore.Models.AssemblyInfoInputs.cache
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\obj\Debug\net7.0\InstallementAndStore.Models.AssemblyInfo.cs
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\obj\Debug\net7.0\InstallementAndStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\obj\Debug\net7.0\InstallementAndStore.Models.dll
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\obj\Debug\net7.0\refint\InstallementAndStore.Models.dll
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\obj\Debug\net7.0\InstallementAndStore.Models.pdb
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Models\obj\Debug\net7.0\ref\InstallementAndStore.Models.dll

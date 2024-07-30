@@ -1,0 +1,17 @@
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\bin\Debug\net7.0\InstallementAndStore.Services.deps.json
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\bin\Debug\net7.0\InstallementAndStore.Services.runtimeconfig.json
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\bin\Debug\net7.0\InstallementAndStore.Services.dll
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\bin\Debug\net7.0\InstallementAndStore.Services.pdb
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\bin\Debug\net7.0\InstallementAndStore.Models.dll
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\bin\Debug\net7.0\InstallementAndStore.Models.pdb
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.csproj.AssemblyReference.cache
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.AssemblyInfoInputs.cache
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.AssemblyInfo.cs
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.csproj.CoreCompileInputs.cache
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.csproj.CopyComplete
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.dll
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\refint\InstallementAndStore.Services.dll
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.pdb
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\InstallementAndStore.Services.genruntimeconfig.cache
+C:\Users\aassd\OneDrive\Desktop\DemoInstallementAndStoreProject\InstallementAndStoreSolutions\InstallementAndStore.Services\obj\Debug\net7.0\ref\InstallementAndStore.Services.dll
